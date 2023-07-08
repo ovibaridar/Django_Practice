@@ -18,10 +18,12 @@ from django.contrib import admin
 from django.urls import path
 from .import views
 from .import views2
+from .import vie
 
 urlpatterns = [
     path('admin/', admin.site.urls),
     path('', views.home, name='home'),
     path('home2', views2.home2, name='home2'),
+    path('home3', vie.home3, name='home3'),
     path('ad', views.ad, name='ad')
 ]
