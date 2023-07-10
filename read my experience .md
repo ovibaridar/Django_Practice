@@ -1,2 +1,2 @@
 # Django_Practice
-Here i creat some project in django .its new for me today is may 2nd day is django .ad the date is  11-07-20203 .
+Here i try to created some project in django .its new for me  and today is my 2nd day in django .and today date is  11-07-20203 .
